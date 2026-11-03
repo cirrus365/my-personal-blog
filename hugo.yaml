@@ -95,11 +95,6 @@ params:
     Content: |
       Welcome to my personal blog.
 
-  socialIcons:
-    - name: github
-      title: View Source on Github
-      url: "https://github.com/"
-
   assets:
     disableHLJS: true
   #     favicon: "<link / abs url>"
