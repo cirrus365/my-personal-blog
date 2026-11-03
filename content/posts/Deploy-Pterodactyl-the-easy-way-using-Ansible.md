@@ -12,8 +12,6 @@ For those that don't know, [Pterodactyl](https://pterodactyl.io) is a free, open
 
 While the official website has excellent documentation, it can still be a little time-consuming and fiddly to set up manually — and it's easy to make a small mistake and spend extra time finding and fixing what you did wrong. That's why I decided that making this Ansible playbook would be the perfect reproducible, idempotent solution.
 
-![Ansible playbook repository preview](/playbook.webp)
-
 ## Prerequisites
 
 To use the playbook, you'll need the following:
