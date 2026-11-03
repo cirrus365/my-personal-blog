@@ -58,8 +58,8 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "My personal blog"
-  author: Me
-  # author: ["Me", "You"] # multiple authors
+  author: Zombat
+  # author: ["Zombat", "You"] # multiple authors
 
   defaultTheme: auto
   # disableThemeToggle: true
